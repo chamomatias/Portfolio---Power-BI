@@ -1,4 +1,15 @@
-# PORTFOLIO - LISTA DE PROYECTOS:
+# 📊 Portfolio de Proyectos en Power BI
+
+Este repositorio reúne una selección de dashboards y visualizaciones desarrollados para analizar distintas temáticas a partir de datos reales o simulados. Cada proyecto incluye detalles sobre su objetivo, origen de datos, modelo utilizado y un enlace para ver el informe en Power BI.
+
+---
+
+## 📌 Índice de proyectos
+
+1. [Proy_01 – Gráfico de ciclos (Liq_divisas_por_exp_de_oleaginosas_y_cereales)](#proy_01--gráfico-de-ciclos-liq_divisas_por_exp_de_oleaginosas_y_cereales)
+2. [Proy_02 – Dashboard Análisis de maíz](#proy_02--dashboard-análisis-de-maíz)
+
+---
 
 # Proy_01 – Gráfico de ciclos (Liq_divisas_por_exp_de_oleaginosas_y_cereales)
 
@@ -28,11 +39,9 @@ Fuente: datos oficiales de la Secretaría de Gobierno de Energía de Argentina
 
 ## Demo
 Puedes ver el proyecto en Power BI:  
-https://app.powerbi.com/view?r=eyJrIjoiOWVlNWY0NDAtNmQyZS00Y2Y2LWI5MzEtZmQzOTliYTVmNzk0IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9
+🔗 [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVlNWY0NDAtNmQyZS00Y2Y2LWI5MzEtZmQzOTliYTVmNzk0IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9)
 
-
-
-
+---
 
 # Proy_02 – Dashboard Análisis de maíz
 
@@ -57,5 +66,4 @@ El procesamiento y la transformación de los datos se realizaron completamente e
 
 ## Demo
 Puedes ver el proyecto en Power BI:  
-https://app.powerbi.com/view?r=eyJrIjoiYWRmZDFhNjQtMjIwZS00YzY2LWExZWItMjBlMGUyZTdmYWI3IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9
-
+🔗 [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRmZDFhNjQtMjIwZS00YzY2LWExZWItMjBlMGUyZTdmYWI3IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9)
