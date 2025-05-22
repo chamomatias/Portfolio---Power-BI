@@ -29,3 +29,33 @@ Fuente: datos oficiales de la Secretaría de Gobierno de Energía de Argentina
 ## Demo
 Puedes ver el proyecto en Power BI:  
 https://app.powerbi.com/view?r=eyJrIjoiOWVlNWY0NDAtNmQyZS00Y2Y2LWI5MzEtZmQzOTliYTVmNzk0IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9
+
+
+
+
+
+# Proy_02 – Dashboard Análisis de maíz
+
+## Introducción
+Desarrollé este tablero con el objetivo de **controlar el flujo de entrega de materia prima**.  
+La idea central fue crear una herramienta que me permita:
+
+- Ver **cómo estoy en un período** determinado.
+- **Comparar ese desempeño** con otro período anterior o posterior.
+
+Esto facilita el seguimiento de tendencias, cuellos de botella y oportunidades de mejora en la gestión de entregas.
+
+## Datos
+Para mantener la confidencialidad se trabajó con **datos sintéticos**, y se codificaron los nombres de los proveedores.  
+Aunque son datos ficticios, se generaron sobre la base de datos reales, con una variación aproximada del **±25%**.
+
+## Limpieza de datos
+El procesamiento y la transformación de los datos se realizaron completamente en **Power Query**.
+
+## Modelo
+**Modelo en estrella:** la estructura del modelo se basa en una **tabla de hechos** y varias **dimensiones** (como proveedor, producto, fechas), permitiendo una navegación eficiente y flexible en los análisis.
+
+## Demo
+Puedes ver el proyecto en Power BI:  
+https://app.powerbi.com/view?r=eyJrIjoiYWRmZDFhNjQtMjIwZS00YzY2LWExZWItMjBlMGUyZTdmYWI3IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9
+
